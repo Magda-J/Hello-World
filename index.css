@@ -1,0 +1,9 @@
+.header {
+    background-color: rgb(182, 170, 170);
+    padding: 20px;
+    text-align: center;
+}
+.para{
+    font-size: 20px;
+    font-weight: bold;
+}
